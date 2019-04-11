@@ -57,4 +57,3 @@ public class AddMenuItemForm {
         this.cheeseId = cheeseId;
     }
 }
-
